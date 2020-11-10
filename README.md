@@ -2,11 +2,6 @@
 I'm interested in computer vision , DeepLearning, Scene reconstruction, AR, surgical navigation  algorithms.  
 If you are interested in this work, please follow me, I hope my work is helpful to you!  
 
-<!---![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leocvml&include_all_commits=true)-->
-
-
-<!--**leocvml/leocvml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 
 
 
@@ -15,8 +10,7 @@ If you are interested in this work, please follow me, I hope my work is helpful 
 <!--
 - ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leocvml&include_all_commits=true)
 -->
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leocvml&include_all_commits=true)
-</td><td valign="top" width="45%">
+
 
  
 
@@ -29,6 +23,20 @@ If you are interested in this work, please follow me, I hope my work is helpful 
 <br>[CycleGAN-gluon-mxnet](https://github.com/leocvml/CycleGAN-gluon-mxnet) - GAN model
 <br>[SiameseRPN-gluon-mxnet](https://github.com/leocvml/SiameseRPN-gluon-mxnet) -Tracking
 <!-- blog ends -->
+</td></td><td valign="top" width="45%">
+
+### Computer vision Repo ### 
+ 
+<!-- tils starts -->
+[Halide](https://github.com/leocvml/Halide-computer-vision-and-image-processing): 
+    - here is some computer vision and image processing algorithm implement by Halide
+[MarchingCubes](https://github.com/leocvml/MarchingCubes)
+    - creating a polygonal mesh from a voxel model
+<!-- blog ends -->
 </td></tr></table>
+
+
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leocvml&include_all_commits=true)
+</td><td valign="top" width="45%">
  
 
