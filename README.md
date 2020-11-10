@@ -5,7 +5,7 @@ If you are interested in this work, please follow me, I hope my work is helpful 
 
 
 
-<table><tr><td valign="center" width="55%">
+<table><tr><td valign="center" width="25%">
   
 <!--
 - ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leocvml&include_all_commits=true)
@@ -23,17 +23,17 @@ If you are interested in this work, please follow me, I hope my work is helpful 
 <br>[CycleGAN-gluon-mxnet](https://github.com/leocvml/CycleGAN-gluon-mxnet) - GAN model
 <br>[SiameseRPN-gluon-mxnet](https://github.com/leocvml/SiameseRPN-gluon-mxnet) -Tracking
 <!-- blog ends -->
-</td></td><td valign="top" width="45%">
+</td></td><td valign="top" width="75%">
 
 ### Computer vision Repo ### 
  
 <!-- tils starts -->
-[Halide](https://github.com/leocvml/Halide-computer-vision-and-image-processing): 
-    - here is some computer vision and image processing algorithm implement by Halide
+[Halide](https://github.com/leocvml/Halide-computer-vision-and-image-processing)
+    - here is some computer vision and image processing algorithm implement by Halide  
 [MarchingCubes](https://github.com/leocvml/MarchingCubes)
     - creating a polygonal mesh from a voxel model
 <!-- blog ends -->
-</td></tr></table>
+</td></tr></td></td><td valign="top" width="45%">
 
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leocvml&include_all_commits=true)
