@@ -30,8 +30,10 @@ If you are interested in this work, please follow me, I hope my work is helpful 
 <!-- tils starts -->
 [Halide](https://github.com/leocvml/Halide-computer-vision-and-image-processing)
     - here is some computer vision and image processing algorithm implement by Halide  
+[Octree](https://github.com/leocvml/Octree)
 [MarchingCubes](https://github.com/leocvml/MarchingCubes)
     - creating a polygonal mesh from a voxel model
+    
 <!-- blog ends -->
 </td></tr></td></td><td valign="top" width="45%">
 
