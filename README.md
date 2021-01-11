@@ -39,7 +39,7 @@ If you are interested in this work, please follow me, I hope my work is helpful 
 </td></tr></td></td><td valign="top" width="45%">
 
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leocvml&include_all_commits=true)
+<!--[Leo's github stats](https://github-readme-stats.vercel.app/api?username=leocvml&include_all_commits=true)-->
  
  
 
