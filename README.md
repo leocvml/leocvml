@@ -22,8 +22,9 @@ If you are interested in this work, please follow me, I hope my work is helpful 
 <br>[DSOD-gluon-mxnet](https://github.com/leocvml/DSOD-gluon-mxnet) - Detection
 <br>[CycleGAN-gluon-mxnet](https://github.com/leocvml/CycleGAN-gluon-mxnet) - GAN model
 <br>[SiameseRPN-gluon-mxnet](https://github.com/leocvml/SiameseRPN-gluon-mxnet) -Tracking
+<br>[Vision-Transformer-Tensorflow2](https://github.com/leocvml/Vision-Transformer-TF2) - Transformer on CV
 <!-- blog ends -->
-</td></td><td valign="top" width="75%">
+ </td></td><td valign="top" width="30%"> 
 
 ### Computer vision Repo ### 
  
@@ -35,8 +36,8 @@ If you are interested in this work, please follow me, I hope my work is helpful 
 [MarchingCubes](https://github.com/leocvml/MarchingCubes)
     - creating a polygonal mesh from a voxel model
     
-<!-- blog ends -->
-</td></tr></td></td><td valign="top" width="45%">
+ 
+<!--   </td></tr></td></td><td valign="top" width="30%"> -->
 
 
 <!--[Leo's github stats](https://github-readme-stats.vercel.app/api?username=leocvml&include_all_commits=true)-->
