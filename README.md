@@ -33,7 +33,7 @@ If you are interested in this work, please follow me, I hope my work is helpful 
     - here is some computer vision and image processing algorithm implement by Halide  
 [Octree](https://github.com/leocvml/Octree) 
     - tree struct for 3d points  
-[MarchingCubes](https://github.com/leocvml/MarchingCubes)
+[MarchingCubes](https://github.com/leocvml/MarchingCube)
     - creating a polygonal mesh from a voxel model
     
  
